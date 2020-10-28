@@ -1,0 +1,867 @@
+[
+     {
+          "PLAYER":"Aaron Holiday",
+          "TEAM":"IND",
+          "salary":2239200.0
+     },
+     {
+          "PLAYER":"Alec Burks",
+          "TEAM":"PHI",
+          "salary":2320044.0
+     },
+     {
+          "PLAYER":"Alex Caruso",
+          "TEAM":"LAL",
+          "salary":2750000.0
+     },
+     {
+          "PLAYER":"Allen Crabbe",
+          "TEAM":"MIN",
+          "salary":17818456.0
+     },
+     {
+          "PLAYER":"Allonzo Trier",
+          "TEAM":"NYK",
+          "salary":3551100.0
+     },
+     {
+          "PLAYER":"Andre Iguodala",
+          "TEAM":"MIA",
+          "salary":17185185.0
+     },
+     {
+          "PLAYER":"Andre Roberson",
+          "TEAM":"OKC",
+          "salary":10740741.0
+     },
+     {
+          "PLAYER":"Anfernee Simons",
+          "TEAM":"POR",
+          "salary":2149560.0
+     },
+     {
+          "PLAYER":"Austin Rivers",
+          "TEAM":"HOU",
+          "salary":2174318.0
+     },
+     {
+          "PLAYER":"Avery Bradley",
+          "TEAM":"LAL",
+          "salary":4767000.0
+     },
+     {
+          "PLAYER":"Ben McLemore",
+          "TEAM":"HOU",
+          "salary":2028594.0
+     },
+     {
+          "PLAYER":"Ben Simmons",
+          "TEAM":"PHI",
+          "salary":8113930.0
+     },
+     {
+          "PLAYER":"Bogdan Bogdanovic",
+          "TEAM":"SAC",
+          "salary":8529386.0
+     },
+     {
+          "PLAYER":"Brad Wanamaker",
+          "TEAM":"BOS",
+          "salary":1445697.0
+     },
+     {
+          "PLAYER":"Bradley Beal",
+          "TEAM":"WAS",
+          "salary":27093019.0
+     },
+     {
+          "PLAYER":"Brandon Goodwin",
+          "TEAM":"ATL",
+          "salary":522738.0
+     },
+     {
+          "PLAYER":"Brandon Knight",
+          "TEAM":"DET",
+          "salary":15643750.0
+     },
+     {
+          "PLAYER":"Bruce Brown",
+          "TEAM":"DET",
+          "salary":1416852.0
+     },
+     {
+          "PLAYER":"Bryn Forbes",
+          "TEAM":"SAS",
+          "salary":2875000.0
+     },
+     {
+          "PLAYER":"Buddy Hield",
+          "TEAM":"SAC",
+          "salary":4861208.0
+     },
+     {
+          "PLAYER":"CJ McCollum",
+          "TEAM":"POR",
+          "salary":27556959.0
+     },
+     {
+          "PLAYER":"Chandler Hutchison",
+          "TEAM":"CHI",
+          "salary":2332320.0
+     },
+     {
+          "PLAYER":"Chasson Randle",
+          "TEAM":"GSW",
+          "salary":91557.0
+     },
+     {
+          "PLAYER":"Chris Paul",
+          "TEAM":"OKC",
+          "salary":38506482.0
+     },
+     {
+          "PLAYER":"Collin Sexton",
+          "TEAM":"CLE",
+          "salary":4764960.0
+     },
+     {
+          "PLAYER":"Corey Brewer",
+          "TEAM":"SAC",
+          "salary":289803.0
+     },
+     {
+          "PLAYER":"Cory Joseph",
+          "TEAM":"SAC",
+          "salary":12000000.0
+     },
+     {
+          "PLAYER":"Courtney Lee",
+          "TEAM":"DAL",
+          "salary":12759670.0
+     },
+     {
+          "PLAYER":"D'Angelo Russell",
+          "TEAM":"MIN",
+          "salary":27285000.0
+     },
+     {
+          "PLAYER":"D.J. Augustin",
+          "TEAM":"ORL",
+          "salary":7250000.0
+     },
+     {
+          "PLAYER":"Damian Lillard",
+          "TEAM":"POR",
+          "salary":29802321.0
+     },
+     {
+          "PLAYER":"Damion Lee",
+          "TEAM":"GSW",
+          "salary":842327.0
+     },
+     {
+          "PLAYER":"Damyean Dotson",
+          "TEAM":"NYK",
+          "salary":1618520.0
+     },
+     {
+          "PLAYER":"Danny Green",
+          "TEAM":"LAL",
+          "salary":14634146.0
+     },
+     {
+          "PLAYER":"Dante Exum",
+          "TEAM":"CLE",
+          "salary":9600000.0
+     },
+     {
+          "PLAYER":"David Nwaba",
+          "TEAM":"HOU",
+          "salary":903111.0
+     },
+     {
+          "PLAYER":"De'Aaron Fox",
+          "TEAM":"SAC",
+          "salary":6392760.0
+     },
+     {
+          "PLAYER":"De'Anthony Melton",
+          "TEAM":"MEM",
+          "salary":1416852.0
+     },
+     {
+          "PLAYER":"DeAndre' Bembry",
+          "TEAM":"ATL",
+          "salary":2603982.0
+     },
+     {
+          "PLAYER":"DeMar DeRozan",
+          "TEAM":"SAS",
+          "salary":27739975.0
+     },
+     {
+          "PLAYER":"Dejounte Murray",
+          "TEAM":"SAS",
+          "salary":2321735.0
+     },
+     {
+          "PLAYER":"Delon Wright",
+          "TEAM":"DAL",
+          "salary":9473684.0
+     },
+     {
+          "PLAYER":"Dennis Schroder",
+          "TEAM":"OKC",
+          "salary":15500000.0
+     },
+     {
+          "PLAYER":"Denzel Valentine",
+          "TEAM":"CHI",
+          "salary":3377569.0
+     },
+     {
+          "PLAYER":"Deonte Burton",
+          "TEAM":"OKC",
+          "salary":1416852.0
+     },
+     {
+          "PLAYER":"Derrick Rose",
+          "TEAM":"DET",
+          "salary":7317073.0
+     },
+     {
+          "PLAYER":"Derrick White",
+          "TEAM":"SAS",
+          "salary":1948080.0
+     },
+     {
+          "PLAYER":"Dillon Brooks",
+          "TEAM":"MEM",
+          "salary":1618520.0
+     },
+     {
+          "PLAYER":"Dion Waiters",
+          "TEAM":"LAL",
+          "salary":503656.0
+     },
+     {
+          "PLAYER":"Donovan Mitchell",
+          "TEAM":"UTA",
+          "salary":3635760.0
+     },
+     {
+          "PLAYER":"Donte DiVincenzo",
+          "TEAM":"MIL",
+          "salary":2905800.0
+     },
+     {
+          "PLAYER":"Dusty Hannahs",
+          "TEAM":"MEM",
+          "salary":81678.0
+     },
+     {
+          "PLAYER":"E'Twaun Moore",
+          "TEAM":"NOP",
+          "salary":8664928.0
+     },
+     {
+          "PLAYER":"Edmond Sumner",
+          "TEAM":"IND",
+          "salary":2000000.0
+     },
+     {
+          "PLAYER":"Elfrid Payton",
+          "TEAM":"NYK",
+          "salary":8000000.0
+     },
+     {
+          "PLAYER":"Emmanuel Mudiay",
+          "TEAM":"UTA",
+          "salary":1737145.0
+     },
+     {
+          "PLAYER":"Eric Bledsoe",
+          "TEAM":"MIL",
+          "salary":15625000.0
+     },
+     {
+          "PLAYER":"Eric Gordon",
+          "TEAM":"HOU",
+          "salary":14057730.0
+     },
+     {
+          "PLAYER":"Evan Fournier",
+          "TEAM":"ORL",
+          "salary":17000000.0
+     },
+     {
+          "PLAYER":"Evan Turner",
+          "TEAM":"MIN",
+          "salary":18606557.0
+     },
+     {
+          "PLAYER":"Frank Jackson",
+          "TEAM":"NOP",
+          "salary":1618520.0
+     },
+     {
+          "PLAYER":"Frank Ntilikina",
+          "TEAM":"NYK",
+          "salary":4855800.0
+     },
+     {
+          "PLAYER":"Fred VanVleet",
+          "TEAM":"TOR",
+          "salary":9000000.0
+     },
+     {
+          "PLAYER":"Furkan Korkmaz",
+          "TEAM":"PHI",
+          "salary":1620564.0
+     },
+     {
+          "PLAYER":"Gary Harris",
+          "TEAM":"DEN",
+          "salary":17839286.0
+     },
+     {
+          "PLAYER":"George Hill",
+          "TEAM":"MIL",
+          "salary":9133907.0
+     },
+     {
+          "PLAYER":"George Hill",
+          "TEAM":"MIL",
+          "salary":9133907.0
+     },
+     {
+          "PLAYER":"George Hill",
+          "TEAM":"MIL",
+          "salary":1000000.0
+     },
+     {
+          "PLAYER":"George Hill",
+          "TEAM":"MIL",
+          "salary":1000000.0
+     },
+     {
+          "PLAYER":"Goran Dragic",
+          "TEAM":"MIA",
+          "salary":19217900.0
+     },
+     {
+          "PLAYER":"Grayson Allen",
+          "TEAM":"MEM",
+          "salary":2429400.0
+     },
+     {
+          "PLAYER":"Hamidou Diallo",
+          "TEAM":"OKC",
+          "salary":1416852.0
+     },
+     {
+          "PLAYER":"Isaac Bonga",
+          "TEAM":"WAS",
+          "salary":1416852.0
+     },
+     {
+          "PLAYER":"Ish Smith",
+          "TEAM":"WAS",
+          "salary":5853659.0
+     },
+     {
+          "PLAYER":"J.J. Barea",
+          "TEAM":"DAL",
+          "salary":2564753.0
+     },
+     {
+          "PLAYER":"J.P. Macura",
+          "TEAM":"CLE",
+          "salary":81678.0
+     },
+     {
+          "PLAYER":"Jacob Evans",
+          "TEAM":"MIN",
+          "salary":1925880.0
+     },
+     {
+          "PLAYER":"Jalen Brunson",
+          "TEAM":"DAL",
+          "salary":1416582.0
+     },
+     {
+          "PLAYER":"Jamal Murray",
+          "TEAM":"DEN",
+          "salary":4444746.0
+     },
+     {
+          "PLAYER":"James Harden",
+          "TEAM":"HOU",
+          "salary":37800000.0
+     },
+     {
+          "PLAYER":"Jaylen Brown",
+          "TEAM":"BOS",
+          "salary":6534829.0
+     },
+     {
+          "PLAYER":"Jayson Tatum",
+          "TEAM":"BOS",
+          "salary":7830000.0
+     },
+     {
+          "PLAYER":"Jeff Teague",
+          "TEAM":"ATL",
+          "salary":19000000.0
+     },
+     {
+          "PLAYER":"Jeremy Lamb",
+          "TEAM":"IND",
+          "salary":10500000.0
+     },
+     {
+          "PLAYER":"Jeremy Pargo",
+          "TEAM":"GSW",
+          "salary":91557.0
+     },
+     {
+          "PLAYER":"Jerian Grant",
+          "TEAM":"WAS",
+          "salary":196288.0
+     },
+     {
+          "PLAYER":"Jerome Robinson",
+          "TEAM":"WAS",
+          "salary":3567720.0
+     },
+     {
+          "PLAYER":"Joe Ingles",
+          "TEAM":"UTA",
+          "salary":11954546.0
+     },
+     {
+          "PLAYER":"Jordan Clarkson",
+          "TEAM":"UTA",
+          "salary":13437500.0
+     },
+     {
+          "PLAYER":"Jordan McRae",
+          "TEAM":"DET",
+          "salary":1645357.0
+     },
+     {
+          "PLAYER":"Josh Hart",
+          "TEAM":"NOP",
+          "salary":1934160.0
+     },
+     {
+          "PLAYER":"Josh Jackson",
+          "TEAM":"MEM",
+          "salary":7059480.0
+     },
+     {
+          "PLAYER":"Josh Magette",
+          "TEAM":"ORL",
+          "salary":81678.0
+     },
+     {
+          "PLAYER":"Josh Okogie",
+          "TEAM":"MIN",
+          "salary":2530680.0
+     },
+     {
+          "PLAYER":"Josh Richardson",
+          "TEAM":"PHI",
+          "salary":10100000.0
+     },
+     {
+          "PLAYER":"Jrue Holiday",
+          "TEAM":"NOP",
+          "salary":26131111.0
+     },
+     {
+          "PLAYER":"Justin Holiday",
+          "TEAM":"IND",
+          "salary":4767000.0
+     },
+     {
+          "PLAYER":"Justise Winslow",
+          "TEAM":"MEM",
+          "salary":13000000.0
+     },
+     {
+          "PLAYER":"Kemba Walker",
+          "TEAM":"BOS",
+          "salary":32742000.0
+     },
+     {
+          "PLAYER":"Kenrich Williams",
+          "TEAM":"NOP",
+          "salary":1416852.0
+     },
+     {
+          "PLAYER":"Kent Bazemore",
+          "TEAM":"SAC",
+          "salary":19269662.0
+     },
+     {
+          "PLAYER":"Kentavious Caldwell-Pope",
+          "TEAM":"LAL",
+          "salary":8089282.0
+     },
+     {
+          "PLAYER":"Kevin Huerter",
+          "TEAM":"ATL",
+          "salary":2636280.0
+     },
+     {
+          "PLAYER":"Khyri Thomas",
+          "TEAM":"DET",
+          "salary":838464.0
+     },
+     {
+          "PLAYER":"Kris Dunn",
+          "TEAM":"CHI",
+          "salary":5348007.0
+     },
+     {
+          "PLAYER":"Kyle Anderson",
+          "TEAM":"MEM",
+          "salary":9073050.0
+     },
+     {
+          "PLAYER":"Kyle Korver",
+          "TEAM":"MIL",
+          "salary":2564753.0
+     },
+     {
+          "PLAYER":"Kyle Lowry",
+          "TEAM":"TOR",
+          "salary":33296296.0
+     },
+     {
+          "PLAYER":"Landry Shamet",
+          "TEAM":"LAC",
+          "salary":1995120.0
+     },
+     {
+          "PLAYER":"Langston Galloway",
+          "TEAM":"DET",
+          "salary":7333333.0
+     },
+     {
+          "PLAYER":"Lonzo Ball",
+          "TEAM":"NOP",
+          "salary":8719320.0
+     },
+     {
+          "PLAYER":"Lou Williams",
+          "TEAM":"LAC",
+          "salary":8000000.0
+     },
+     {
+          "PLAYER":"Luka Doncic",
+          "TEAM":"DAL",
+          "salary":7683360.0
+     },
+     {
+          "PLAYER":"Luke Kennard",
+          "TEAM":"DET",
+          "salary":3827160.0
+     },
+     {
+          "PLAYER":"Malcolm Brogdon",
+          "TEAM":"IND",
+          "salary":20000000.0
+     },
+     {
+          "PLAYER":"Malcolm Miller",
+          "TEAM":"TOR",
+          "salary":1588231.0
+     },
+     {
+          "PLAYER":"Malik Beasley",
+          "TEAM":"MIN",
+          "salary":2731714.0
+     },
+     {
+          "PLAYER":"Marco Belinelli",
+          "TEAM":"SAS",
+          "salary":5846154.0
+     },
+     {
+          "PLAYER":"Marcus Smart",
+          "TEAM":"BOS",
+          "salary":12553471.0
+     },
+     {
+          "PLAYER":"Mario Hezonja",
+          "TEAM":"POR",
+          "salary":1737145.0
+     },
+     {
+          "PLAYER":"Markelle Fultz",
+          "TEAM":"ORL",
+          "salary":9745200.0
+     },
+     {
+          "PLAYER":"Matthew Dellavedova",
+          "TEAM":"CLE",
+          "salary":9607500.0
+     },
+     {
+          "PLAYER":"Maurice Harkless",
+          "TEAM":"NYK",
+          "salary":11511234.0
+     },
+     {
+          "PLAYER":"Michael Carter-Williams",
+          "TEAM":"ORL",
+          "salary":2028594.0
+     },
+     {
+          "PLAYER":"Mike Conley",
+          "TEAM":"UTA",
+          "salary":32511623.0
+     },
+     {
+          "PLAYER":"Monte Morris",
+          "TEAM":"DEN",
+          "salary":1588231.0
+     },
+     {
+          "PLAYER":"Norman Powell",
+          "TEAM":"TOR",
+          "salary":10116576.0
+     },
+     {
+          "PLAYER":"PJ Dozier",
+          "TEAM":"DEN",
+          "salary":183115.0
+     },
+     {
+          "PLAYER":"Pat Connaughton",
+          "TEAM":"MIL",
+          "salary":1723050.0
+     },
+     {
+          "PLAYER":"Patrick Beverley",
+          "TEAM":"LAC",
+          "salary":12345679.0
+     },
+     {
+          "PLAYER":"Patrick McCaw",
+          "TEAM":"TOR",
+          "salary":4000000.0
+     },
+     {
+          "PLAYER":"Patty Mills",
+          "TEAM":"SAS",
+          "salary":12428571.0
+     },
+     {
+          "PLAYER":"Quinn Cook",
+          "TEAM":"LAL",
+          "salary":3000000.0
+     },
+     {
+          "PLAYER":"Rajon Rondo",
+          "TEAM":"LAL",
+          "salary":2564753.0
+     },
+     {
+          "PLAYER":"Raul Neto",
+          "TEAM":"PHI",
+          "salary":1737145.0
+     },
+     {
+          "PLAYER":"Reggie Bullock",
+          "TEAM":"NYK",
+          "salary":4000000.0
+     },
+     {
+          "PLAYER":"Reggie Jackson",
+          "TEAM":"LAC",
+          "salary":734025.0
+     },
+     {
+          "PLAYER":"Rodney Hood",
+          "TEAM":"POR",
+          "salary":5718000.0
+     },
+     {
+          "PLAYER":"Rodney McGruder",
+          "TEAM":"LAC",
+          "salary":4629630.0
+     },
+     {
+          "PLAYER":"Rudy Gay",
+          "TEAM":"SAS",
+          "salary":14000000.0
+     },
+     {
+          "PLAYER":"Russell Westbrook",
+          "TEAM":"HOU",
+          "salary":38178000.0
+     },
+     {
+          "PLAYER":"Ryan Arcidiacono",
+          "TEAM":"CHI",
+          "salary":3000000.0
+     },
+     {
+          "PLAYER":"Seth Curry",
+          "TEAM":"DAL",
+          "salary":7441860.0
+     },
+     {
+          "PLAYER":"Shabazz Napier",
+          "TEAM":"WAS",
+          "salary":1882867.0
+     },
+     {
+          "PLAYER":"Shai Gilgeous-Alexander",
+          "TEAM":"OKC",
+          "salary":3952920.0
+     },
+     {
+          "PLAYER":"Shake Milton",
+          "TEAM":"PHI",
+          "salary":1445697.0
+     },
+     {
+          "PLAYER":"Shaquille Harrison",
+          "TEAM":"CHI",
+          "salary":898310.0
+     },
+     {
+          "PLAYER":"Sindarius Thornwell",
+          "TEAM":"NOP",
+          "salary":183115.0
+     },
+     {
+          "PLAYER":"Stanley Johnson",
+          "TEAM":"TOR",
+          "salary":3623000.0
+     },
+     {
+          "PLAYER":"Stephen Curry",
+          "TEAM":"GSW",
+          "salary":40231758.0
+     },
+     {
+          "PLAYER":"Sterling Brown",
+          "TEAM":"MIL",
+          "salary":1618520.0
+     },
+     {
+          "PLAYER":"T.J. McConnell",
+          "TEAM":"IND",
+          "salary":3500000.0
+     },
+     {
+          "PLAYER":"Terrance Ferguson",
+          "TEAM":"OKC",
+          "salary":2475840.0
+     },
+     {
+          "PLAYER":"Terrence Ross",
+          "TEAM":"ORL",
+          "salary":12500000.0
+     },
+     {
+          "PLAYER":"Thabo Sefolosha",
+          "TEAM":"HOU",
+          "salary":2564753.0
+     },
+     {
+          "PLAYER":"Theo Pinson",
+          "TEAM":"NYK",
+          "salary":1445697.0
+     },
+     {
+          "PLAYER":"Tim Frazier",
+          "TEAM":"DET",
+          "salary":1882867.0
+     },
+     {
+          "PLAYER":"Tomas Satoransky",
+          "TEAM":"CHI",
+          "salary":10000000.0
+     },
+     {
+          "PLAYER":"Tony Snell",
+          "TEAM":"DET",
+          "salary":11392857.0
+     },
+     {
+          "PLAYER":"Trae Young",
+          "TEAM":"ATL",
+          "salary":6273000.0
+     },
+     {
+          "PLAYER":"Treveon Graham",
+          "TEAM":"ATL",
+          "salary":1678854.0
+     },
+     {
+          "PLAYER":"Trey Burke",
+          "TEAM":"DAL",
+          "salary":229220.0
+     },
+     {
+          "PLAYER":"Troy Daniels",
+          "TEAM":"DEN",
+          "salary":481000.0
+     },
+     {
+          "PLAYER":"Tyus Jones",
+          "TEAM":"MEM",
+          "salary":8408000.0
+     },
+     {
+          "PLAYER":"Victor Oladipo",
+          "TEAM":"IND",
+          "salary":21000000.0
+     },
+     {
+          "PLAYER":"Vince Carter",
+          "TEAM":"ATL",
+          "salary":2564753.0
+     },
+     {
+          "PLAYER":"Wayne Ellington",
+          "TEAM":"NYK",
+          "salary":7804878.0
+     },
+     {
+          "PLAYER":"Wesley Matthews",
+          "TEAM":"MIL",
+          "salary":2564753.0
+     },
+     {
+          "PLAYER":"Will Barton",
+          "TEAM":"DEN",
+          "salary":12960000.0
+     },
+     {
+          "PLAYER":"Yogi Ferrell",
+          "TEAM":"SAC",
+          "salary":3150000.0
+     },
+     {
+          "PLAYER":"Zach LaVine",
+          "TEAM":"CHI",
+          "salary":19500000.0
+     },
+     {
+          "PLAYER":"Zach Norvell Jr.",
+          "TEAM":"GSW",
+          "salary":50752.0
+     },
+     {
+          "PLAYER":"Zhaire Smith",
+          "TEAM":"PHI",
+          "salary":3058800.0
+     }
+]

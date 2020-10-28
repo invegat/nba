@@ -1,0 +1,26 @@
+https://stats.nba.com/players/advanced/?sort=PLAYER_NAME&dir=-1&Season=2019-20&SeasonType=Regular%20Season&PlayerPosition=G
+
+find_elements_by_class_name
+
+player
+team
+age
+gp
+W
+L
+min
+offrtg
+defrtg
+nettrg
+ast%
+AST/TO
+AST RATIO
+OREB%
+DREB%
+REB%
+TO RATION
+EFG%
+TS%
+USG%
+PACE
+PIE
